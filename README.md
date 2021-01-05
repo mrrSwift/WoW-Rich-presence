@@ -33,34 +33,34 @@ Open the state.json file
         "where":"y"
 
   ```
-
--largeImageKey:{
-daeth_knight
-demon_hunter
-druid
-hunter
-mage 
-monk
-paladin
-priest
-rogue
-shaman
-warlock
+```js
+/*largeImageKey:{
+daeth_knight,
+demon_hunter,
+druid,
+hunter,
+mage ,
+monk,
+paladin,
+priest,
+rogue,
+shaman,
+warlock,
 warrior
 
 }
 
 -smallImageKey:{
-alliance 
+alliance ,
 
 horde
 }
 
 -where:{
-    y
+    y,
     x
-}
-
+}*/
+```
 
 y= in game 
 x= in menu
