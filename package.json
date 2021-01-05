@@ -1,0 +1,16 @@
+{
+  "name": "wow-rich",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "$"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.1.4",
+    "fs": "0.0.1-security",
+    "otra-vez": "^1.0.2"
+  }
+}

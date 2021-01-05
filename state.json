@@ -1,0 +1,24 @@
+{
+    "appinfo":{
+        "clientID":"770951797103263755"
+    },
+    "info":{
+        "details":"Ilswiftdemonsll" ,
+        "state": "Demon Hunter",
+       
+       "largeImageText":"Demon Hunter" ,
+       
+       "smallImageText": "Alliance"
+       
+    },
+    "zone":{
+        "largeImageKey":"demon_hunter" 
+    },
+    "class":{
+        "smallImageKey":"alliance" 
+    },
+    "modeplay":{
+        "waudoing":"idle",
+        "where":"y"
+    }
+}
