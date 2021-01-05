@@ -34,12 +34,13 @@ Open the state.json file
 
   ```
 ```js
-/*largeImageKey:{
+/*
+largeImageKey:{
 daeth_knight,
 demon_hunter,
 druid,
 hunter,
-mage ,
+mage,
 monk,
 paladin,
 priest,
@@ -51,15 +52,15 @@ warrior
 }
 
 -smallImageKey:{
-alliance ,
-
+alliance,
 horde
 }
 
 -where:{
     y,
     x
-}*/
+}
+*/
 ```
 
 y= in game 
