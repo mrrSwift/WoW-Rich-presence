@@ -3,7 +3,7 @@
 -------------------------------------
 ## How to change the status
 Open the state.json file 
-
+ **(Dont Change clientID)**
 ```json
 "info":{
         "details":"<Hero's name>" ,

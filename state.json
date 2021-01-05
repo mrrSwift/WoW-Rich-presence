@@ -3,12 +3,12 @@
         "clientID":"770951797103263755"
     },
     "info":{
-        "details":"Ilswiftdemonsll" ,
-        "state": "Demon Hunter",
+        "details":"<Hero's name>" ,
+        "state": "<Class Name>",
        
-       "largeImageText":"Demon Hunter" ,
+       "largeImageText":"<Class Name>" ,
        
-       "smallImageText": "Alliance"
+       "smallImageText": "<Faction>"
        
     },
     "zone":{
