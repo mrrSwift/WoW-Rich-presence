@@ -48,7 +48,7 @@ async function setActivityingame() {
   });
  
   console.log(`Activity update / in game \n`)
-  console.log(`_________________________________________ \n|    Name:${data.info.details}    \n|    Class And Talent: ${data.info.state}    \n|    Class:${data.info.largeImageText}    \n|    Team:${data.info.smallImageText}    \n_________________________________________ `)
+  console.log(`_________________________________________ \n|    Name:${data.info.details}    \n|      Class And Talent: ${data.info.state}    \n|    Class:${data.info.largeImageText}    \n|    Team:${data.info.smallImageText}    \n_________________________________________ `)
 
 }
 
