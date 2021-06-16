@@ -3,8 +3,6 @@ global.data = require('./state.json');
 const clientId = `${data.appinfo.clientID}`;
 const fs = require('fs')
 
-
-
 /////////////////////////Update Cache////////////////////////
 fs.watchFile(require.resolve('./state.json'), function () {
   console.log("Information  changed, reloading...\n");
