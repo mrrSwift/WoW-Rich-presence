@@ -80,11 +80,7 @@ rpc.on('ready', () => {
   }else{
     setActivityinmenu();
   }
-  
 
-
-
- 
  
 });
 

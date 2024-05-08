@@ -3,19 +3,19 @@
         "clientID":"770951797103263755"
     },
     "info":{
-        "details":"<Hero's name>" ,
-        "state": "<Class Name>",
+        "details":"Swiftllly" ,
+        "state": "Raid",
        
-       "largeImageText":"<Class Name>" ,
+       "largeImageText":"Mage" ,
        
-       "smallImageText": "<Faction>"
+       "smallImageText": "Hord"
        
     },
     "zone":{
-        "largeImageKey":"demon_hunter" 
+        "largeImageKey":"mage" 
     },
     "class":{
-        "smallImageKey":"alliance" 
+        "smallImageKey":"hord" 
     },
     "modeplay":{
         "waudoing":"idle",
