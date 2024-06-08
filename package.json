@@ -4,7 +4,10 @@
   "description": "none",
   "main": "index.js",
   "scripts": {
-    "test": "$"
+    "build": "$",
+    "dev": "$",
+    "start": "electron ."
+
   },
   "author": "",
   "license": "ISC",
